@@ -4,8 +4,8 @@
   <ShortName>go-zero</ShortName>
   <Description>Search go-zero</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://re-dylan.github.io/zh/img/go-zero.svg</Image>
-  <Url type="text/html" method="get" template="https://re-dylan.github.io/zh/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://re-dylan.github.io/zh/opensearch.xml" />
-  <moz:SearchForm>https://re-dylan.github.io/zh/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://re-dylan.github.io/zero-doc/zh/img/go-zero.svg</Image>
+  <Url type="text/html" method="get" template="https://re-dylan.github.io/zero-doc/zh/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://re-dylan.github.io/zero-doc/zh/opensearch.xml" />
+  <moz:SearchForm>https://re-dylan.github.io/zero-doc/zh/</moz:SearchForm>
 </OpenSearchDescription>

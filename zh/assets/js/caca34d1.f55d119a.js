@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktmp=self.webpackChunktmp||[]).push([[5166],{8757:function(o){o.exports=JSON.parse('{"allTagsPath":"/zero-doc/zh/blog/tags","slug":"/zero-doc/zh/blog/tags/go-zero","name":"go-zero","count":1,"permalink":"/zero-doc/zh/blog/tags/go-zero"}')}}]);
