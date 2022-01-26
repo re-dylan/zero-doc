@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktmp=self.webpackChunktmp||[]).push([[3583],{4010:function(a){a.exports=JSON.parse('{"allTagsPath":"/zh/blog/tags","slug":"/zh/blog/tags/dream","name":"dream","count":1,"permalink":"/zh/blog/tags/dream"}')}}]);
