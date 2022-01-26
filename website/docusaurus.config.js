@@ -118,7 +118,7 @@ const config = {
       },
     }),
     i18n: {
-      defaultLocale: 'zh',
+      defaultLocale: 'un',
       locales: ['zh', 'en'],
       localeConfigs: {
         zh: {
